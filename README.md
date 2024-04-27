@@ -11,8 +11,8 @@ Spring boot application work like server side <br>
 h2 in memory database is used <br><br>
 
 packages are <br>
-entity for project <br><br>
-repo for repository <br><br>
-servise for servise layer <br><br>
+entity for project <br>
+repo for repository <br>
+servise for servise layer <br>
 controller for restController <br><br>
 
